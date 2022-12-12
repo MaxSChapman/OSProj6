@@ -1,31 +1,31 @@
-# 1. 
-###   Max Starreveld and Samuel Bernsen
-###   Chapman ID# 2380029, 2367195
-###   starreveld@chapman.edu, bernsen@chapman.edu
-###   CPSC-380-02 (Springer)
-###   Assignment 6: Virtual Memory Manager
+1. 
+Max Starreveld and Samuel Bernsen
+   Chapman ID# 2380029, 2367195
+   starreveld@chapman.edu, bernsen@chapman.edu
+   CPSC-380-02 (Springer)
+   Assignment 6: Virtual Memory Manager
 
-# 2. Files Submitted
-###  vmmgr.c - Code file
-###  BACKINGSTORE.bin - binary information file
-###  addresses.txt - input file
-###  README.md: overview document
+2. Files Submitted
+  vmmgr.c - Code file
+  BACKINGSTORE.bin - binary information file
+  addresses.txt - input file
+  README.md: overview document
 
-# 3. Errors
-###  No known errors.
+3. Errors
+  No known errors.
 
-# 4. References used
-###  -https://github.com/MagedSaeed/vertual_memroy_manager used as a reference to better understand the assignment, the programs function. I used it as a baseline to build off of and improve, advancing the code to a more streamlined, less redundant process.
-###  -Worked indirectly with Arman Siddiqui  for assistance, directly with Sam Bernsen
-###  -Father assisted with some debugging and memory optimization issues.
+4. References used
+  -https://github.com/MagedSaeed/vertual_memroy_manager used as a reference to better understand the assignment, the programs function. I used it as a baseline to build off of and improve, advancing the code to a more streamlined, less redundant process.
+  -Worked indirectly with Arman Siddiqui  for assistance, directly with Sam Bernsen
+  -Father assisted with some debugging and memory optimization issues.
 
-# 5. Run instructions
-###   -Compile the program using the following command:
-```
+5. Run instructions
+   -Compile the program using the following command:
+
 gcc -o vmmgr vmmgr.c
-```
+
  
-###Run the program using the following command:
-```
+Run the program using the following command:
+
 ./vmmgr addresses.txt
-```
+
