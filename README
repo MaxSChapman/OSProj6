@@ -6,10 +6,10 @@
    Assignment 6: Virtual Memory Manager
 
 2. Files Submitted
-  vmmgr.c - Code file
-  BACKINGSTORE.bin - binary information file
-  addresses.txt - input file
-  README.md: overview document
+   vmmgr.c - Code file
+   BACKINGSTORE.bin - binary information file
+   addresses.txt - input file
+   README.md: overview document
 
 3. Errors
   No known errors.
