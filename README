@@ -24,7 +24,7 @@
 ```
 gcc -o vmmgr vmmgr.c
 ```
-
+ 
 ###Run the program using the following command:
 ```
 ./vmmgr addresses.txt
