@@ -1,5 +1,5 @@
 1. 
-Max Starreveld and Samuel Bernsen
+   Max Starreveld and Samuel Bernsen
    Chapman ID# 2380029, 2367195
    starreveld@chapman.edu, bernsen@chapman.edu
    CPSC-380-02 (Springer)
@@ -22,10 +22,10 @@ Max Starreveld and Samuel Bernsen
 5. Run instructions
    -Compile the program using the following command:
 
-gcc -o vmmgr vmmgr.c
+   gcc -o vmmgr vmmgr.c
 
  
-Run the program using the following command:
+   Run the program using the following command:
 
-./vmmgr addresses.txt
+   ./vmmgr addresses.txt
 
